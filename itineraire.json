@@ -1,0 +1,287 @@
+{
+  "pays": "Ouzbékistan",
+  "drapeau": "🇺🇿",
+  "symbole": "🕌",
+  "titre": "Symphonie turquoise et douceur sur la Route de la Soie",
+  "budget_total": "978 €/personne",
+  "duree": "8 jours",
+  "temps_vol": "8h30 depuis Paris, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sous les coupoles turquoises",
+      "legende": "Après un voyage aérien à travers les steppes, atterrissez au cœur de la mythique Samarcande. Prenez le temps de vous installer paisiblement dans votre hôtel de charme avant une première sortie au crépuscule. La cité s'illumine doucement dans une atmosphère paisible idéale pour dissiper la fatigue du trajet.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>🛬 Arrivée et accueil :</strong> Atterrissage à l'aéroport de Samarcande et transfert détendu vers votre hébergement.",
+        "<strong>🛏️ Installation et repos :</strong> Déposez vos bagages et dégustez un premier thé vert traditionnel aux graines de cardamome.",
+        "<strong>🚶‍♂️ Promenade crépusculaire :</strong> Balade apaisante autour du mausolée Gur-e-Amir illuminé par de doux reflets dorés."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mausolée Gour Emir, Samarcande",
+          "categorie": "Monument",
+          "coords": { "lat": 39.6483, "lng": 66.9689 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Les taxis officiels et applications locales comme Yandex Go facilitent vos déplacements sans négociation."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "La majesté du Régistan sans se presser",
+      "legende": "Consacrez votre première matinée à la place la plus emblématique d'Asie centrale, le Régistan, baignée par la lumière matinale. Flânez à votre rythme à l'intérieur des madrasas richement ornées de mosaïques azurées. Terminez la journée dans une tchaïkhana ombragée en sirotant une infusion réconfortante.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>🕌 Découverte du Régistan :</strong> Explorez avec calme les cours intérieures des trois madrasas séculaires.",
+        "<strong>☕ Pause tchaïkhana :</strong> Détendez-vous sur un tapchan garni de coussins en dégustant des fruits secs locaux."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Place du Régistan, Samarcande",
+          "categorie": "Monument",
+          "coords": { "lat": 39.6548, "lng": 66.9757 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil sérénité",
+          "texte": "Visitez le Régistan tôt le matin pour contempler les mosaïques loin des groupes et de la chaleur."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✨",
+      "titre": "Ciel d'azur et senteurs d'épices",
+      "legende": "Parcourez l'allée mystique de Shah-i-Zinda, où s'alignent les plus délicates céramiques d'Orient dans une quiétude sacrée. Descendez ensuite doucement vers la monumentale mosquée Bibi-Khanoum avant de flâner dans les allées colorées du bazar voisin, gorgées de pistaches et d'abricots séchés.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>💙 Nécropole Shah-i-Zinda :</strong> Marchez le long d'une avenue bordée de tombes médiévales aux émaux sublimes.",
+        "<strong>🍇 Éveil des sens au Siab Bazar :</strong> Goûtez aux célèbres galettes de pain dorées et aux amandes grillées dans une ambiance bon enfant."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Shah-i-Zinda, Samarcande",
+          "categorie": "Monument",
+          "coords": { "lat": 39.6644, "lng": 66.9881 }
+        },
+        {
+          "nom_recherche": "Marché Siab, Samarcande",
+          "categorie": "Marché",
+          "coords": { "lat": 39.6622, "lng": 66.9818 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🥖",
+          "titre": "Gourmandise",
+          "texte": "Achetez un pain de Samarcande tout chaud au bazar Siab, réputé pour rester tendre plusieurs jours."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌿",
+      "titre": "Parenthèse bucolique au village de Konigil",
+      "legende": "Éloignez-vous du centre pour rejoindre le paisible village artisanal de Konigil, situé au bord d'un ruisseau verdoyant. Vous y observerez la fabrication ancestrale du papier de soie de mûrier selon des méthodes manuelles inchangées depuis le VIIIe siècle, bercé par le clapotis de la roue à aubes.",
+      "lieu": "Konigil",
+      "activites": [
+        "<strong>📜 Atelier de papier de soie :</strong> Observez la transformation artisanale de l'écorce de mûrier au moulin Meros.",
+        "<strong>🍃 Déjeuner au bord de l'eau :</strong> Savourez une salade fraîche d'été et un thé parfumé sous les saules pleureurs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Meros Paper Mill, Samarcande",
+          "categorie": "Atelier artisanal",
+          "coords": { "lat": 39.6586, "lng": 67.045 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Nature",
+          "texte": "Le domaine abrite également des ateliers de poterie et de menuiserie traditionnelle très reposants."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🧖‍♀️",
+      "titre": "Soie fine et rituel de bain thermal",
+      "legende": "Commencez la journée par la visite délicate d'une fabrique de tapis en soie noués à la main avec des teintures exclusivement végétales. L'après-midi est dédié à la relaxation totale dans les vapeurs d'un hammam oriental historique, une tradition séculaire indispensable pour revitaliser le corps.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>🧶 Manufacture de tapis Hujjum :</strong> Admirez la virtuosité des artisanes filant la soie naturelle aux pigments floraux.",
+        "<strong>🛁 Bain thermal traditionnel :</strong> Offrez-vous un gommage relaxant et un massage doux dans un hammam du XVIe siècle."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Fabrique de tapis Hudjum, Samarcande",
+          "categorie": "Artisanat",
+          "coords": { "lat": 39.665, "lng": 66.983 }
+        },
+        {
+          "nom_recherche": "Bozori Kord Hammam, Samarcande",
+          "categorie": "Hammam",
+          "coords": { "lat": 39.6575, "lng": 66.9772 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Bien-être",
+          "texte": "Prévoyez de réserver votre créneau de massage au hammam la veille auprès de votre hôtel."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "⛰️",
+      "titre": "Escapade douce vers la cité de Tamerlan",
+      "legende": "Prenez la route à travers le col de Takhtakaracha pour rejoindre Chakhrisabz, ville natale verdoyante du grand conquérant Tamerlan. Promenez-vous dans ses immenses jardins ombragés face aux vestiges colossaux du palais blanc d'Ak-Saray avant de rentrer paisiblement en fin d'après-midi.",
+      "lieu": "Chakhrisabz",
+      "activites": [
+        "<strong>🏰 Vestiges d'Ak-Saray :</strong> Contemplez la monumentalité des arches brisées recouvertes de mosaïques cobalt.",
+        "<strong>🌳 Promenade dans les parcs de Chakhrisabz :</strong> Flânez à l'ombre des platanes centenaires entourant le complexe Dorut Tilavat."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Palais Ak-Saray, Chakhrisabz",
+          "categorie": "Monument",
+          "coords": { "lat": 39.0583, "lng": 66.8294 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "Le trajet en voiture privée passe par un col offrant de splendides vues sans nécessiter de marche soutenue."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🔭",
+      "titre": "Astronomie antique et douceur de vivre",
+      "legende": "Montez sur la colline de Chupan-Ata pour découvrir l'ingénieux sextant géant de l'astronome prince Oulough Beg. Poursuivez par une visite tranquille du domaine viticole Khovrenko pour une dégustation commentée de nectars locaux, concluant votre périple en toute sérénité.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>⭐ Observatoire d'Oulough Beg :</strong> Plongez dans l'histoire fascinante des savants médiévaux au musée attenant.",
+        "<strong>🍷 Dégustation au musée Khovrenko :</strong> Goûtez aux cépages ouzbeks et aux vins doux traditionnels dans un cadre historique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Observatoire d'Oulough Beg, Samarcande",
+          "categorie": "Musée",
+          "coords": { "lat": 39.6738, "lng": 67.0065 }
+        },
+        {
+          "nom_recherche": "Musée Khovrenko, Samarcande",
+          "categorie": "Dégustation",
+          "coords": { "lat": 39.6481, "lng": 66.9536 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🍇",
+          "titre": "Saveurs",
+          "texte": "Les vins de dessert ouzbeks bénéficient d'un ensoleillement exceptionnel leur conférant des notes confites uniques."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛫",
+      "titre": "Derniers instants et retour vers Paris",
+      "legende": "Profitez d'un petit-déjeuner copieux garni de confitures de grenade et de figues fraîches. Accordez-vous un dernier tour dans le quartier russe ombragé pour quelques souvenirs artisanaux avant de rejoindre l'aéroport international de Samarcande pour votre vol retour.",
+      "lieu": "Samarcande",
+      "activites": [
+        "<strong>🎁 Dernières emplettes relaxantes :</strong> Choisissez des céramiques miniatures ou foulards de soie brodés.",
+        "<strong>🛫 Vol retour vers Paris :</strong> Envol avec des souvenirs inoubliables des coupoles turquoises."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Samarcande, Samarcande",
+          "categorie": "Aéroport",
+          "coords": { "lat": 39.7005, "lng": 66.9839 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🧳",
+          "titre": "Bagages",
+          "texte": "Emballez soigneusement vos poteries et céramiques dans vos vêtements doux en soute."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "388 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "85 €/pers (taxis locaux et excursion)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "160 €/pers (environ 20 €/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "280 €/pers (hôtel 3 étoiles base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "65 €/pers (entrées, atelier, hammam)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai (climat doux et fleurs en abondance)", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre (vendanges et températures idéales)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures oscillent entre 18 et 28°C. Prévoyez des vêtements légers en coton et une petite laine le soir.", "symbole": "☀️" },
+    { "titre": "La monnaie locale est le sum (UZS). Les cartes Visa/Mastercard fonctionnent dans les hôtels, prévoyez du liquide pour les bazars.", "symbole": "💳" },
+    { "titre": "Téléchargez l'application Yandex Go pour commander des taxis urbains fiables à Samarcande pour moins de 2 euros la course.", "symbole": "🚕" },
+    { "titre": "Pensez à enlever vos chaussures et à porter des tenues couvrant épaules et genoux lors de la visite des mausolées sacrés.", "symbole": "🕌" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🥖",
+      "titre": "L'insaisissable pain de Samarcande",
+      "texte": "L'émir de Boukhara voulut fabriquer le fameux pain de Samarcande dans sa capitale. Il fit venir boulangers, farine, eau et fours de Samarcande, mais le pain n'avait pas le même goût. Le maître boulanger lui répondit alors : \"Majesté, nous avons tout apporté, sauf l'air pur de Samarcande !\"."
+    },
+    {
+      "symbole": "⚠️",
+      "titre": "La malédiction du tombeau de Tamerlan",
+      "texte": "Sur la stèle de jade de Tamerlan est gravé : \"Quiconque ouvrira ma tombe libérera un envahisseur plus terrible que moi\". L'anthropologue soviétique Mikhaïl Guerassimov ouvrit le cercueil le 20 juin 1941... deux jours exactement avant l'opération Barbarossa et l'invasion de l'URSS par Hitler."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍲",
+      "titre": "Le Plov de Samarcande",
+      "texte": "Plat national à base de riz long cuit en couches avec carottes jaunes fondantes, viande de bœuf ou mouton, pois chiches et raisins de Corinthe, sans être mélangé avant le service."
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Les Mantis vapeur",
+      "texte": "Gros raviolis cuits délicatement à la vapeur, farcis d'agneau émincé et d'oignons doux, nappés d'une cuillerée de crème aigre parfumée à l'aneth."
+    },
+    {
+      "symbole": "🍵",
+      "titre": "Le Kok-Tcha et fruits secs",
+      "texte": "Thé vert léger servi cérémonieusement dans de jolis bols en porcelaine bleutée (pialas), toujours accompagné d'amandes sucrées, pistaches et raisins dorés."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SKD/2027-05-11/2027-05-19", "symbole": "🛬" },
+    { "legende": "Portail officiel du tourisme", "titre": "Uzbekistan Travel", "url": "https://uzbekistan.travel/fr/", "symbole": "📘" },
+    { "legende": "Trains express régionaux", "titre": "Chemins de fer ouzbeks", "url": "https://railway.uz/fr/", "symbole": "🚆" }
+  ]
+}
